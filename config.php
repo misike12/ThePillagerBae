@@ -1,6 +1,6 @@
 <?php
-$dbname = 'if0_36663584_tpb';
-$dbuser = 'if0_36663584';
-$dbpass = '4tbTiIxdHtVlbi';
-$dbhost = 'sql205.infinityfree.com';
+$dbname = 'defaultdb';
+$dbuser = 'avnadmin';
+$dbpass = 'AVNS_Snor2TTMzlFMa0yadMT';
+$dbhost = 'mysql-1fce72c7-feleslegesfosfiok-821a.j.aivencloud.com:21526';
 ?>
