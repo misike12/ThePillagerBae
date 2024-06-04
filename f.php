@@ -24,5 +24,3 @@ while ($row = $results->fetch_row()) {
 }
 
 echo(json_encode($fileList));
-
-?>

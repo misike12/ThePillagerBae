@@ -148,7 +148,3 @@ if(isset($_GET["q"])){
 	echo(json_encode($search_results));
 	
 }
-
-
-
-?>

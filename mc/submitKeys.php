@@ -31,5 +31,3 @@ $connect->commit();
 $response = array('Status' => '200 OK');
 
 echo(json_encode($response));
-
-?>
