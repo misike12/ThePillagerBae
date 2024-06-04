@@ -1,0 +1,16 @@
+{
+    "functions": {
+      "*.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "api/*.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "countdown/*.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "mc/*.php": {
+        "runtime": "vercel-php@0.7.1"
+      }
+    }
+  }
