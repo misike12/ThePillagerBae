@@ -3,10 +3,52 @@
       "*.php": {
         "runtime": "vercel-php@0.7.1"
       },
-      "api/*.php": {
+      "api/index.php": {
         "runtime": "vercel-php@0.7.1"
       },
-      "countdown/*.php": {
+      "mc/description.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "mc/lookupKeys.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "mc/lookupModules.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "mc/lookupUrls.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "mc/submitKeys.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "browse.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "config.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "contrib.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "database_dl.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "description.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "DOWNLOAD_EVERYTHING.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "f.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "q.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "search.php": {
+        "runtime": "vercel-php@0.7.1"
+      },
+      "t.php": {
         "runtime": "vercel-php@0.7.1"
       },
       "mc/*.php": {
